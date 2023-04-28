@@ -26,16 +26,16 @@ It also supports polyglot  programming. Services don't need to share the same te
 
 <p><strong>Docker:</strong>
 <h3>Common commands:</h3>
-  -run         Create and run a new container from an image
-  -exec        Execute a command in a running container
-  -ps          List containers
-  -build       Build an image from a Dockerfile
-  -pull        Download an image from a registry
-  -push        Upload an image to a registry
-  -images      List images
-  -login       Log in to a registry
-  -logout      Log out from a registry
-  -search      Search Docker Hub for images
-  -version     Show the Docker version information
-  -info        Display system-wide information
+  <li>run         Create and run a new container from an image
+  <li>exec        Execute a command in a running container
+  <li>ps          List containers
+  <li>build       Build an image from a Dockerfile
+  <li>pull        Download an image from a registry
+  <li>push        Upload an image to a registry
+  <li>images      List images
+  <li>login       Log in to a registry
+  <li>logout      Log out from a registry
+  <li>search      Search Docker Hub for images
+  <li>version     Show the Docker version information
+  <li>info        Display system-wide information
 </p>  
