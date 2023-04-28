@@ -11,7 +11,7 @@ I follow the next steps:
 
 <h2> Concepts:</h2>
 <p><strong>Microservices:</strong>
-Microservice is an architectural style that structures an application as a collection of sevices that are Indeppendent and Loosely Coupled.
+Is an architectural style that structures an application as a collection of sevices that are Indeppendent and Loosely Coupled.
 It also supports polyglot  programming. Services don't need to share the same technology stack libraries or framework. The development team can select more suitable tech for the functional needs.
 
 <h3>Features of Microservice</h3>
