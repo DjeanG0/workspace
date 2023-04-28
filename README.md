@@ -1,2 +1,2 @@
-# workspace
-Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose
+# Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose
+
